@@ -1,4 +1,6 @@
-# Hi, I'm Vinsan D,
+vinsandatascience/README.md
+
+# 👋 I'm Vinsan D,
 
 ## 🙋 About Me:
 
@@ -10,13 +12,28 @@ I am a B.Tech Artificial Intelligence & Data Science student passionate about bu
 ☁️ Exploring Cloud & DevOps  
 📚 Currently learning Data Structures & Algorithms and Java OOP.  
 
+## 🛠️ Technologies & Tools:
+
+**Programming Languages**
+. Python
+. Java
+. SQL
+
+**Web Development**
+. HTML
+. CSS
+
+**Version Control**
+. Git
+. GitHub
+
 ## 🎯 Career Focus:
 
- Artificial Intelligence & Machine Learning
- Cloud & DevOps
- Data Science & Analytics
- Software Development
+🤖 Artificial Intelligence & Machine Learning  
+☁️ Cloud & DevOps  
+📊 Data Science & Analytics  
+💻 Software Development
  
-## Connect:
+##🔗 Connect :
 
  🌐LinkedIn: www.linkedin.com/in/vinsan-d-2309283b7
