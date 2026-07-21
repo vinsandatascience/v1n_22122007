@@ -15,15 +15,18 @@ I am a B.Tech Artificial Intelligence & Data Science student passionate about bu
 ## 🛠️ Technologies & Tools:
 
 **Programming Languages**
+
 . Python
 . Java
 . SQL
 
 **Web Development**
+
 . HTML
 . CSS
 
 **Version Control**
+
 . Git
 . GitHub
 
