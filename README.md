@@ -7,9 +7,13 @@ vinsandatascience/README.md
 I am a B.Tech Artificial Intelligence & Data Science student passionate about building intelligent applications and solving real-world problems.
 
 🎓 AI & Data Science Engineering Student  
+
 💻 Python • Java • SQL • Git & GitHub  
+
 🤖 Interested in Artificial Intelligence, Machine Learning. 
+
 ☁️ Exploring Cloud & DevOps  
+
 📚 Currently learning Data Structures & Algorithms and Java OOP.  
 
 ## 🛠️ Technologies & Tools:
